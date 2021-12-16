@@ -27,12 +27,11 @@ Hello, I'm Malith Ileperuma, a passionate self-taught full stack developer from 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center"><br>
+
 <a href="https://github.com/AVS1508">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malith97&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malith97&layout=compact&langs_count=8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malith97&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malith97&layout=compact&langs_count=8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true"/>
 </a>
- </p>
 
 ### 🤝🏻 &nbsp;Connect With
 
