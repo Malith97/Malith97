@@ -7,38 +7,41 @@ Hello, I'm Malith Ileperuma, a passionate self-taught full stack developer from 
 ### 🛠 &nbsp;Tech Stack
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=spring)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=00599C)\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![AdobeXd](https://img.shields.io/badge/-AdobeXd-05122A?style=flat&logo=adobe-xd)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center"><br>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malith97&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malith97&layout=compact&langs_count=8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malith97&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malith97&layout=compact&langs_count=8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true"/>
 </a>
+ </p>
 
 ### 🤝🏻 &nbsp;Connect With
 
 <p align="center">
-<a href="https://www.linkedin.com/in/malith-ileperuma-8a6a97167/"><img src="https://img.shields.io/badge/-Malith%20Ileperuma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/10895727/malith-ileperuma"><img src="https://img.shields.io/badge/-Malith Ileperuma-D14836?style=flat&logo=Stackoverflow&logoColor=white"/></a>
-<a href="mailto:mileperuma@gmail.com"><img src="https://img.shields.io/badge/-Mileperuma@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/malith_z"><img src="https://img.shields.io/badge/-malith_z-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/mileperuma"><img src="https://img.shields.io/badge/-Malith Ileperuma-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-Malith97-1769FF?style=flat&logo=AdobeXd&logoColor=Pink"/></a>
+<a href="https://www.linkedin.com/in/malith-ileperuma-8a6a97167/"><img src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=Linkedin"/></a>
+<a href="https://stackoverflow.com/users/10895727/malith-ileperuma"><img src="https://img.shields.io/badge/-Stackoverflow-05122A?style=flat&logo=Stackoverflow"/></a>
+<a href="mailto:mileperuma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=Gmail"/></a>
+<a href="https://instagram.com/malith_z"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=Instagram"/></a>
+  <a href="https://www.youtube.com/channel/UCjAoKd1cftOE1I0JYSXFjmQ"><img src="https://img.shields.io/badge/-Youtube-05122A?style=flat&logo=youtube"/></a>
+<a href="https://facebook.com/mileperuma"><img src="https://img.shields.io/badge/-Facebook-05122A?style=flat&logo=facebook"/></a>
+<a href="https://www.dribbble.com/Malith97"><img src="https://img.shields.io/badge/-Dribble-05122A?style=flat&logo=Dribbble"/></a>
 </p>
-
-## Github Stats
-
-<img width="276" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/3-stats.svg"> <img width="570" src="https://raw.githubusercontent.com/8BitJonny/8BitJonny/master/profile-summary-card-output/github_dark/0-profile-details.svg">
