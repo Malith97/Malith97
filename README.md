@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-Hello, I'm Malith Ileperuma, a passionate self-taught full stack developer from srilanka. A dedicated and diligent young individual who’s driven by a thirst for challenge. I am a self-employed entity fueled by a passion for new innovations and focused on full-stack development. I am a supportive and enthusiastic team player, dedicated to efficiently resolving project issues with an inherent ability to innovate and learn new technologies
+Hello, I'm Malith Ileperuma, a dedicated and diligent young individual who’s driven by a thirst for challenge. I am a self-employed entity fueled by a passion for new innovations and focused on full-stack development. I am a supportive and enthusiastic team player, dedicated to efficiently resolving project issues with an inherent ability to innovate and learn new technologies
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -11,11 +11,13 @@ Hello, I'm Malith Ileperuma, a passionate self-taught full stack developer from 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)\
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=00599C)\
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=00599C)&nbsp;
+![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=Mongodb)\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -25,7 +27,7 @@ Hello, I'm Malith Ileperuma, a passionate self-taught full stack developer from 
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 ![AdobeXd](https://img.shields.io/badge/-AdobeXd-05122A?style=flat&logo=adobe-xd)
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Analytics
 
 
 <a href="https://github.com/AVS1508">
