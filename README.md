@@ -31,8 +31,8 @@ Hello, I'm Malith Ileperuma, a dedicated and diligent young individual who’s d
 
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malith97&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malith97&layout=compact&langs_count=8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malith97&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1117&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malith97&layout=compact&langs_count=8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1117&hide_border=true"/>
 </a>
 
 ### 🤝🏻 &nbsp;Connect With
